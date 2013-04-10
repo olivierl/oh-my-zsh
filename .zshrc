@@ -37,7 +37,7 @@ plugins=(git olivierl)
 source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
-export PATH=/usr/local/heroku/bin:/opt/local/bin:/opt/local/sbin:/Volumes/MacHDD/Users/olivier/.rvm/gems/ruby-1.9.3-p392/bin:/Volumes/MacHDD/Users/olivier/.rvm/gems/ruby-1.9.3-p392@global/bin:/Volumes/MacHDD/Users/olivier/.rvm/rubies/ruby-1.9.3-p392/bin:/Volumes/MacHDD/Users/olivier/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin:$PATH
+export PATH=$PATH:/usr/local/heroku/bin:/opt/local/bin:/opt/local/sbin:/Volumes/MacHDD/Users/olivier/.rvm/gems/ruby-1.9.3-p392/bin:/Volumes/MacHDD/Users/olivier/.rvm/gems/ruby-1.9.3-p392@global/bin:/Volumes/MacHDD/Users/olivier/.rvm/rubies/ruby-1.9.3-p392/bin:/Volumes/MacHDD/Users/olivier/.rvm/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/git/bin
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && . "$HOME/.rvm/scripts/rvm"
 
