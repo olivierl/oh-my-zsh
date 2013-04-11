@@ -1,4 +1,4 @@
-ohmyzsh
-=======
+Oh My ZSH
+=========
 
-Plugins and themes for my personal ZSH console
+Plugins, themes and aliases for my personal ZSH console
